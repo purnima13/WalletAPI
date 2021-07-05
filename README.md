@@ -1,2 +1,2 @@
 # WalletAPI
-Django Wallet with API 
+Django Wallet with API Concept 
